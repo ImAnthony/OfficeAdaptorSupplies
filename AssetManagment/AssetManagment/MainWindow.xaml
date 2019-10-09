@@ -7,7 +7,9 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock HorizontalAlignment="Center" Margin="0,36,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,36,0,0" Text="Herberget IT Asset Checkout" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button Content="Check Out Item" HorizontalAlignment="Left" Margin="253,0,0,0" VerticalAlignment="Center" Width="100" Click="Button_Click"/>
+        <Button Content="Check In" HorizontalAlignment="Left" Margin="490,0,0,0" VerticalAlignment="Center" Width="100"/>
 
     </Grid>
 </Window>

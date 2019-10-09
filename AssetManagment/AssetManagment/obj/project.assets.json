@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afranqui\\Desktop\\CheckOut\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+      "projectUniqueName": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
       "projectName": "AssetManagment",
-      "projectPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
+      "projectPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\AssetManagment.csproj",
       "packagesPath": "C:\\Users\\afranqui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\AssetManagment\\AssetManagment\\obj\\",
+      "outputPath": "C:\\Users\\afranqui\\Desktop\\CheckOut\\OfficeAdaptorSupplies\\AssetManagment\\AssetManagment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\afranqui\\AppData\\Roaming\\NuGet\\NuGet.Config",
