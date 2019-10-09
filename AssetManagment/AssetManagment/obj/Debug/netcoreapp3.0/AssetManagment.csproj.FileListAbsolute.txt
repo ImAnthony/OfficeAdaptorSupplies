@@ -15,5 +15,7 @@ C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetMan
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.AssemblyInfo.cs
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.dll
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\AssetManagment.pdb
-C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutSheet.g.cs
-C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutSheet.baml
+C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutItem.g.cs
+C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.g.cs
+C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\CheckOutItem.baml
+C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\obj\Debug\netcoreapp3.0\ReturnItem.baml

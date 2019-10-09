@@ -7,15 +7,21 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="CheckOutSheet.xaml.cs">
+    <Compile Update="CheckOutItem.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReturnItem.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CheckOutItem.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="CheckOutSheet.xaml">
+    <Page Update="ReturnItem.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

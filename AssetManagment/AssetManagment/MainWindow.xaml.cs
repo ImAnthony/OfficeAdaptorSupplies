@@ -25,11 +25,29 @@ namespace AssetManagment
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void ClickCheckout(object sender, RoutedEventArgs e)
         {
-            CheckOutWindow checkOutWindow = new CheckOutWindow();
-            checkOutWindow.Show();
-            this.Close();
+            Main.Content = new CheckOutItem();
+        }
+
+        private void ReturnAnItem(object sender, RoutedEventArgs e)
+        {
+            Main.Content = new Page1();
+        }
+
+        private void SearchForUser(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AddNewConsumable(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RemoveItemFromList(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

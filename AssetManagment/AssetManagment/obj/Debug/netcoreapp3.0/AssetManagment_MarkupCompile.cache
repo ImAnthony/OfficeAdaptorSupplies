@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
 C:\Users\afranqui\Desktop\CheckOut\OfficeAdaptorSupplies\AssetManagment\AssetManagment\App.xaml
-2646888447
+3-1956410277
 
-3-1639968606
+5-340146850
 192-1037106189
-CheckOutSheet.xaml;MainWindow.xaml;
+CheckOutItem.xaml;MainWindow.xaml;ReturnItem.xaml;
 
 False
 

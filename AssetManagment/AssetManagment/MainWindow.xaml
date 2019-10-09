@@ -7,9 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock HorizontalAlignment="Center" Margin="0,36,0,0" Text="Herberget IT Asset Checkout" TextWrapping="Wrap" VerticalAlignment="Top"/>
-        <Button Content="Check Out Item" HorizontalAlignment="Left" Margin="253,0,0,0" VerticalAlignment="Center" Width="100" Click="Button_Click"/>
-        <Button Content="Check In" HorizontalAlignment="Left" Margin="490,0,0,0" VerticalAlignment="Center" Width="100"/>
+        <StackPanel Orientation="Horizontal" Height="35" VerticalAlignment="Top">
+            <Button Content="Return Item" MinWidth="100" Click="ReturnAnItem" />
+            <Button Content="Check Out Item" MinWidth="100" Margin="10,0,0,0" Click="ClickCheckout" />
+            <Button Content="Search User" MinWidth="100" Margin="10,0,0,0" Click="SearchForUser" />
+            <Button Content="Add New Item" MinWidth="100" Margin="10,0,0,0" Click="AddNewConsumable" />
+            <Button Content="Remove Item" MinWidth="100" Margin="10,0,0,0" Click="RemoveItemFromList"/>
+        </StackPanel>
+        <Frame x:Name="Main" Margin="0,35,0,0"/>
 
     </Grid>
 </Window>
